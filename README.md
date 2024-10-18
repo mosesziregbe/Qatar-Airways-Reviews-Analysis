@@ -108,7 +108,7 @@ The interactive review table displays:
 ##### 🎯 Interactive Features
 
 The dashboard includes filters for:
-- Departure Country
+- Departure City
 - Seat Type
 - Rating Range
 - Traveller Type
@@ -128,8 +128,6 @@ The dashboard includes filters for:
 5. **Review Verification**: Verified reviews showed a higher positive sentiment than unverified ones, indicating stronger confidence in review authenticity, with 64.2% of all reviews being verified.
 
 6. **Performance Trends**: The airline achieved its peak performance in 2021 with an average rating of 8.24/10, reaching its highest point in February 2021 with an exceptional score of 9.82/10.
-
-7. **European Market Performance**: The airline maintains high recommendation rates from key European countries, indicating strong market presence and customer satisfaction in these regions.
 
 
 ## 📜 License
