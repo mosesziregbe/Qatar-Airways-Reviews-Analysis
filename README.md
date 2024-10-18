@@ -19,7 +19,7 @@ The "Qatar Airways Review Dataset" comprises a compilation of feedback, evaluati
 | **Author**              | The name or pseudonym of the reviewer.                                                                                                            |
 | **Country**             | The country of residence or origin of the reviewer, providing demographic context.                                                                |
 | **Date**                | The date the review was submitted, which could differ from the date published.                                                                    |
-| **Review Body**         | The detailed review text describing the customer's experience, covering various aspects such as service quality, comfort, and amenities.         |
+| **Review Text**         | The detailed review text describing the customer's experience, covering various aspects such as service quality, comfort, and amenities.         |
 | **Type Of Traveller**   | The traveler's classification based on travel purpose or group, e.g., Solo, Couple, Family, or Business.                                          |
 | **Seat Type**           | The class of seat occupied by the reviewer during the flight, such as Economy, Business, or First Class.                                          |
 | **Route**               | The flight path or itinerary taken by the reviewer, typically showing departure and destination locations.                                        |
