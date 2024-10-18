@@ -49,7 +49,7 @@ Access the interactive dashboard here: [Qatar Airways Customer Review Analysis D
 
 View the attached Power BI dashboard screenshots:
 
-- [Reviews Analysis Page](https://github.com/mosesziregbe/Qatar-Airways-Reviews-Analysis/blob/main/reviews_analysis.jpg)
+- [Reviews Analysis Page](https://github.com/mosesziregbe/Qatar-Airways-Reviews-Analysis/blob/main/ratings_analysis.jpg)
 - [Passenger Reviews Page](https://github.com/mosesziregbe/Qatar-Airways-Reviews-Analysis/blob/main/passenger_reviews.jpg)
 
 
