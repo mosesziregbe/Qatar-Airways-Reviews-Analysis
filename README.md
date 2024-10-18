@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project analyzes customer feedback for Qatar Airways using a dataset of over 2,300 reviews. The data covers various aspects of the flight experience, including ratings, travel type, seat class, route, and recommendations. The analysis aims to identify key trends, customer preferences, and areas for service improvement. The analysis covers review data from 2014 to 2024, sourced from Kaggle.
+This project utilizes Power BI to analyze customer feedback for Qatar Airways using a dataset of over 2,300 reviews. The interactive dashboard visualizes various aspects of the flight experience, including ratings, travel type, seat class, route, and recommendations. Through Power BI's analytical capabilities, this analysis aims to identify key trends, recommendation rates, customer preferences, and areas for service improvement. The analysis covers review data from 2014 to 2024, sourced from Kaggle.
 
 
 ## 🔍 About the Dataset
