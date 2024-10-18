@@ -43,7 +43,7 @@ The "Qatar Airways Review Dataset" comprises a compilation of feedback, evaluati
 
 - **Option 1**: Interactive Power BI Dashboard
 
-Access the interactive dashboard here: [Qatar Airways Customer Review Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODJjMDhhODItZTQxYy00NmJjLTg3ZGEtNTE0NzgwNmQxMGE0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+Access the interactive dashboard here: [Qatar Airways Customer Review Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODJjMDhhODItZTQxYy00NmJjLTg3ZGEtNTE0NzgwNmQxMGE0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectiona9d584b4de6608ade6b1)
 
 - **Option 2**: Dashboard Preview
 
