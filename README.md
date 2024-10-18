@@ -29,6 +29,7 @@ The "Qatar Airways Review Dataset" comprises a compilation of feedback, evaluati
 | **Verified**            | Indicates whether the review has been verified for authenticity or if the reviewer’s identity and flight details were confirmed.                  |
 
 
+
 ## 🛠️ Tools Used
 
 ## Tools and Techniques
@@ -37,13 +38,17 @@ The "Qatar Airways Review Dataset" comprises a compilation of feedback, evaluati
 - **Calculations and measures**: DAX
 
 
+
 ## 📊 Accessing the Dashboard
 
 - **Option 1**: Interactive Power BI Dashboard
+
 Access the interactive dashboard here: Qatar Airways Customer Review Analysis Dashboard
 
 - **Option 2**: Dashboard Preview
+
 View the attached Power BI dashboard screenshots:
+
 - Reviews Analysis Page
 - Passenger Reviews Page
 
